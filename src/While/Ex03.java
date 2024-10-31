@@ -1,4 +1,3 @@
-
 package While;
 
 import java.util.*;
@@ -28,7 +27,7 @@ public class Ex03
            }
    }
    System.out.println("Total de pessoas menores de 21 anos: " + menoresVinteUm);
-   System.out.println("Total de pessoas maiores de 50 anos: " + menoresVinteUm);
+   System.out.println("Total de pessoas maiores de 50 anos: " + maioresCinquenta);
    leia.close();
    }
 }

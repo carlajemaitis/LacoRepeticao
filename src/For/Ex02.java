@@ -28,5 +28,6 @@ public class Ex02
    }
    System.out.println("Total de números pares: " + pares);
    System.out.println("Total de números ímpares: " + impares);
+   leia.close();
 }
 }
